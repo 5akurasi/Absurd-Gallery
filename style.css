@@ -1,0 +1,116 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    justify-items: center;
+}
+
+.image1 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image1.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lightblue;
+}
+
+.image2 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("https://cdn.gencraft.com/prod/user/7faf9359-d9de-4d69-a3bb-f1f1a1010926/294f425b-94e1-4af3-9652-21949dc6ad2a/image/image1_0.jpg?Expires=1739140529&Signature=OKlbMcJJrajpZCE2QBJdKru5Gp7YYGVvIcXg~vUshlLkBBhMXg8Wzx8hXwV13ZCm0~omPcHSxdmo5dEZ8bRxLtw82JUkBg4xYrGB5Bz0pmnDMV9qqgxHcjFg9fRtK3bD1utxg0xh7GxK5JhM-hZzLG6DabUPi-gFwhMfHMSLiD0wx4vRXkDWMjdGjOdJCRtgMIfSUA7i4wrBCq~~fEWlEXibu-VcR2YF-RZDPLvBACHzRE9WU9Kd4LYhwTQM8UMLG01LkaSj7QtKA6gPk~hkvORV2pB3cP9n7uvITueZ6L3sY7OecfgVjhfWN9lXHUixufjW3IVLW8mbn3n~tUlNmQ__&Key-Pair-Id=K3RDDB1TZ8BHT8");
+    background-size: cover;
+    background-position: center;
+    background-color: lightcoral;
+}
+
+.image3 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("https://cdn.gencraft.com/prod/user/7faf9359-d9de-4d69-a3bb-f1f1a1010926/d9080707-1850-4191-b088-d0f88fd54779/image/image0_0.jpg?Expires=1739140567&Signature=oNyIxYKyNpOMQhma1It16PwFQ0pUbf2aBkgoRXJqp8nJaChC750O~vPtxUOJ0PUJNc7ykVs8NIkcWyjydPA0IBcQ10IZPNnAi-3dtyvN29lXqnUrAkq96gAZ84KpprnxCS1KExUX49L6RkBJPyH6yK-4U0p99fEBT~cBd7IGQQHwMSyd56TlBN9EWLaiCX5~jR9VvWAiu~hj0qclTX99vCAjvI0kuDGa3eYp9nHeuFlrK9PXEUvD1xTwis2Lzi-zAQ3usqjSV959pnFwaphVmadhCRv-Ih6-0Yo5RRSNxqMX4R6x8td6L6YFK1gDOQ2ZxPcizeRcKvXgh4u5vPJu2Q__&Key-Pair-Id=K3RDDB1TZ8BHT8");
+    background-size: cover;
+    background-position: center;
+    background-color: lightgreen;
+}
+
+.image4 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image2.png");
+    background-position: center;
+    background-color: lightyellow;
+    background-size: cover;
+}
+
+.image5 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image3.png");
+    background-position: center;
+    background-color: lightpink;
+    background-size: cover;
+}
+
+.image6 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image34.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lightskyblue;
+}
+
+.image7 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image5.png");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(235, 142, 55);
+}
+
+.image8 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("war\ tycoon\ roblox\ player.png");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(228, 177, 235);
+}
+
+.image9 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image8.png");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(22, 146, 223);
+}
+
+.image10 {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px rgb(36, 36, 36);
+    background-image: url("Image9.png");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(250, 200, 135);
+}
